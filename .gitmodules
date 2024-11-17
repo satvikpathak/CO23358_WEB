@@ -10,3 +10,6 @@
 [submodule "practical_3b"]
 	path = practical_3b
 	url = https://github.com/satvikpathak/practical3-b.git
+[submodule "practical_4a"]
+	path = practical_4a
+	url = https://github.com/satvikpathak/practical4a.git
